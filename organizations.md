@@ -1,4 +1,4 @@
-# Welcome to my spreadsheet of edtech companies! 
+# Welcome to my spreadsheet of edtech companies!
 
 I love edtech and I have found a bunch of companies in the field over the years along with some contacts of people working there :)
 
@@ -8,8 +8,8 @@ Please feel free to make a pull request to add any new companies / information /
 
 you are also welcome to email me with suggestions :)
 
-| name | location | size | visa sponsorship? | careers page | what they do /  other info about them | do I have contact info? | <3<3 |
-|-----------------------------|--------------------------------------------|----------------------------|-------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Name | Location | Size | Visa Sponsorship? | Careers Page | Introduction | Do I have contact info? | <3<3 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | Khan Academy | Mountain View | 100ish | yes | https://www.khanacademy.org/careers | https://medium.com/@evyk/why-i-m-incredibly-excited-to-intern-at-khan-academy-c3a307ee560a | am interning there Jan-April 2016 | <3 <3 <3 <3 |
 | AltSchool | SF | 150 (20 devs, 2 female) | no :( | https://www.altschool.com/jobs | AltSchool is a collaborative  community of micro-schools that  uses outstanding teachers, deep  research, and innovative tools to  offer a personalized, whole child  learning experience for the next  generation. | yes | they seem really cool! reminds me of KA a bit |
 | Schoolzilla | Oakland |  | yes | https://schoolzilla.com/about/jobs/ | Unlike most education companies, Schoolzilla was forged within a school system. We spent five years as part of Aspire Public Schools – one of the nation’s top performing school systems serving low-income communities – closely collaborating with educators to “solve the data problem.” We iterated until our teachers and administrators told us we got it right, and in the process, we built a best-in-class data warehousing, analytics and reporting solution for K-12. | yes | big focus on data and come from a background of working with low income areas <3 |
@@ -68,4 +68,4 @@ you are also welcome to email me with suggestions :)
 | Adaptivepath | SF |  |  |  |  | ish |  |
 | Ginger.io | SF |  | yes |  | mental health data collection :D | yes |  |
 | Samasource |  |  |  |  | SAMASOURCE IS A LEADER IN GLOBAL SOURCING FOR DATA PROJECTS THAT REQUIRE A HUMAN TOUCH - Impact sourcing is a way to take outsourced digital work and give it to people living in poverty in underdeveloped regions around the world. For many, this is the first time they’ve had access to formal job training and work experience. |  |  |
-| Tumblr | NY |  |  |  | I really like the platform, not sure if I'd want to work there |  |  |
+| Tumblr | NY |  |  |  | I really like the platform, not sure if I'd want to work there |  |  | |
