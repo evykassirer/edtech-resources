@@ -1,4 +1,4 @@
-# Welcome to my spreadsheet of edtech companies!
+# Welcome to my list of edtech companies!
 
 I love edtech and I have found a bunch of companies in the field over the years along with some contacts of people working there :)
 
@@ -52,11 +52,7 @@ you are also welcome to email me with suggestions :)
 | cell-ed | ? |  |  | no jobs rn :( http://www.celled.org/jobs/ | Learners simply access adult education with what’s already in their pockets: a basic cell phone --- targeting low income folks, learning through voice calls (listen to lessons) and text learning and texting to participate in quizzes |  | this looks really cool! what a great way to reach people who need education resources the most |
 | Panorama | Boston |  |  | https://www.panoramaed.com/about/jobs | surveys and analytics to better understand students, teachers, and families -- improving classroom culture |  |  |
 | Digital Promise |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| NON-EDTECH | ~~~~~~~~~ | BUT STILL <3 | ~~~~~~~~~ | ~~~~~~~~~ | ~~~~~~~~~ |  |  |
+| NON-EDTECH ||||||| |
 | Smule | SF |  |  | http://www.smule.com/jobs | "Connecting the world through music" | yas |  |
 | Dimagi | various |  |  | http://www.dimagi.com/about/careers/ | Dimagi delivers open and innovative technology to help underserved communities everywhere --- lots of travelling involved (really cool but the kind of thing to do later in my career) |  | LOOKS SUPER COOL |
 | http://www.bayesimpact.org/ | SF |  |  | http://www.bayesimpact.org/careers | We are a tech non-profit that uses data to solve public interest problems at scale. From social services to healthcare delivery to emergency response to criminal justice, we do data science and build open-source software for the global public good. Working with NGOs and governments, we do whatever it takes to find solutions to problems affecting large groups of human beings. Then we freely give it away to other people, groups, and nations that face the same challenges. |  |  |
