@@ -67,3 +67,5 @@ you are also welcome to email me with suggestions :)
 | Tumblr | NY |  |  |  | I really like the platform, not sure if I'd want to work there |  |  | |
 | NeuRecall | Waterloo, Canada |  | yes |http://www.neurecall.com/careers.php  | an online platform designed to increase teaching and learning efficiency, using principles of cognitive science and and exploiting the web's potential for collective knowledge creation - a startup at the intersection of machine learning, neuroscience, and education |  |  |
 | Remind | SF | 70ish | not sure | https://www.remind.com/careers | Their vision is to connect every teacher, student, and parent in the world to improve education. They propagate the idea that the teacher, student, and parent work as a team! | yes |  | |
+| https://alinebetter.com | Sweden | Startup | no, but can work remote | https://www.alinebetter.com/contact | Validating informal learning | hello@alinebetter.com |  |
+| https://www.learnster.se | Sweden | 50+ | no | https://jobb.learnster.se/ | Learnster develops the LMS of tomorrow for growing organizations aspiring to achieve maximum learning in minimum time | support@learnster.com |  |
